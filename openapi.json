@@ -252,7 +252,7 @@
                   "type": "object"
                 },
                 "examples": {
-                  "European Countries": {
+                  "Europe": {
                     "value": {
                       "countries": [
                         {
@@ -280,6 +280,17 @@
                           "alpha2": "Ag",
                           "alpha3": "Arg",
                           "name": "Argentina"
+                        }
+                      ]
+                    }
+                  },
+                  "Asia": {
+                    "value": {
+                      "countries": [
+                        {
+                          "alpha2": "CHN",
+                          "alpha3": "CH",
+                          "name": "China"
                         }
                       ]
                     }
